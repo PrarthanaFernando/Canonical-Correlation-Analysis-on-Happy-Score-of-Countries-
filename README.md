@@ -1,0 +1,1 @@
+Examined the relationship between happiness and economic metrics and explored how the economic factors are related to different measures of happiness. The findings suggest strong and moderate associations between economic indicators and happiness, with some regional variations.
